@@ -59,9 +59,8 @@
           return item.filename;
         });
 
-        // txt = "$map-images: (  \n(selector file width heigth name ext)";
-        txt = "$map-images: ( ";
-        txtend = "\n);"
+        txt = "/**\n * This map hold all Images files\n *\n * @type Map\n */\n$map-images: ( ";
+        txtend = "\n);";
 
         info.forEach(function(item) {
           var folder;

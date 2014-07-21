@@ -1,7 +1,7 @@
 {
   "name": "grunt-sass-imagemapper",
   "description": "Generate a Imagemap from all included Image Assets.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/gisu/grunt-sass-imagemapper",
   "author": {
     "name": "Sascha Fuchs",
